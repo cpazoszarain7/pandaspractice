@@ -1,0 +1,5 @@
+
+This is my smaple3.txt file and now I'm writing plain text in this terminal editor. This makes me look like an actual developer
+
+Which is kinda cool
+
